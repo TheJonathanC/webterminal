@@ -30,8 +30,9 @@ function processCommand(input) {
     switch (input.toLowerCase()) {
         case 'help':
             outputElement.innerHTML += `Available commands:
-            help - Display this help message
-            clear - Clear the terminal
+            help -                Display this help message
+            clear -               Clear the terminal
+            ty -                  Display the team members
             ---------------------------------------------------------
             concept -             Concepts of File System
             attributes -          File attributes
