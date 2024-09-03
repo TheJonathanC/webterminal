@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
        / __/     / /   / /  /  __/        ___/ /  / /_/ /  (__  ) / /_  /  __/ / / / / / / (__  ) 
       /_/       /_/   /_/   \\___/        /____/   \\__, /  /____/  \\__/  \\___/ /_/ /_/ /_/ /____/  
                                                  /____/
-    </b><br><span style="color: #61cab8;">os-terminal.vercel.app (code<span style="color: #7a23c2;">X</span>)</span><br>Type 'help' for a list of available commands.<br><br>`;
+    </b><br><span style="color: #61cab8;">os-terminal.vercel.app (<span style="color: white;">code</span><span style="color: #7a23c2;">X</span>)</span><br>Type 'help' for a list of available commands.<br><br>`;
 
     outputElement.innerHTML += banner;
     outputElement.scrollTop = outputElement.scrollHeight; // Scroll to bottom
