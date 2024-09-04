@@ -282,10 +282,10 @@ Managing the available storage space on the hard drive or other secondary storag
     \\/_/   \\/_/\\/_/   \\/_/\\/_/   \\/_/ \\/_/   \\/_/\\/_/      \\/_____/   \\/_____/   \\/_____/ 
 </span></b>                                                                                          
 team: 
-        Naval Shetty                    NAME
-        Atira Fugle                     NAME
-        Austin Vas                      NAME
-        Deion Dsouza                    NAME
+        Naval Shetty                    Livya
+        Atira Fugle                     Mestina
+        Austin Vas                      Anusha
+        Deion Dsouza                    Emmimal
         Jonathan Correa 
             <br>`;
             break;
