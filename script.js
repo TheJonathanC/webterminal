@@ -345,8 +345,8 @@ team:
 `
             break;
 
-        case 'chat':
-            outputElement.innerHTML += `<a href="https://ltchatgt.onrender.com" style="color:#61cab8;">&ltchat&gt</a>
+        case 'fire':
+            outputElement.innerHTML += `<a href="/fire.html" style="color:#de701c;">FIRE!!</a>
             <br>`;
             break;
 
